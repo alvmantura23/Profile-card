@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     min-height: 100dvh;
-    background-image: url("/img/background-image.PNG");
+    background-image: url('/img/background-image.PNG');
     background-size: cover;
     background-position: center;
     margin: 0;
